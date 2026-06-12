@@ -53,5 +53,5 @@ How They Work Together
 2.	Use AWS Glue Crawler → (automatically infer schema & create metadata in Glue Data Catalog).
 3.	Run AWS Glue Jobs → (clean and transform data if needed).
 4.	Query data using Athena → (run SQL queries directly on S3 without moving data).
-This combination is widely used for big data analytics and serverless data pipelines. 🚀
+This combination is widely used for big data analytics and serverless data pipelines. !!!
 
